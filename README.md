@@ -2,6 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcio de Carvalho Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciocs&color=yellow" alt="Profile views" /> </p>
 
+- Bachelor in Information Systems from IESP College in João Pessoa-PB, I love technology especially programming always looking to stay updated on new trends with a focus on Front end.
+
 - 🔥 System Analyst & Front end developer
 
 - 🔭 I’m currently working at [ITEC-AL](https://www.itec.al.gov.br/)
